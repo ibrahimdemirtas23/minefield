@@ -1,0 +1,9 @@
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\bin\Release\WndApp.exe.config
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\bin\Release\WndApp.exe
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\bin\Release\WndApp.pdb
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.MineField.resources
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.Properties.Resources.resources
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.csproj.GenerateResource.cache
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.exe
+C:\Users\MuhammedTugba\Documents\ibrahim\minefield\WndApp\obj\Release\WndApp.pdb
